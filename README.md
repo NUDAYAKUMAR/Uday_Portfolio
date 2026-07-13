@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # N Udayakumar - Full Stack Developer Portfolio
 
 A modern, fully responsive portfolio website built with React.js, Tailwind CSS, and Framer Motion animations.
@@ -283,3 +284,6 @@ For issues or questions, refer to:
 **Happy Building! 🚀**
 
 *Made with ❤️ for developers like you.*
+=======
+# Uday_Portfolio
+>>>>>>> dfe3fc0458cbf52f6cdacde372eb4cd2bd09a37c
